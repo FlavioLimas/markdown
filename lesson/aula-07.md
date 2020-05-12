@@ -19,8 +19,8 @@
 # Listas não-ordenadas com sub-itens 4
 
 * Item 01
-    - Sub-Item 01
-    - Sub-Item 02
-    - Sub-Item 03
+    + Sub-Item 01
+    + Sub-Item 02
+    + Sub-Item 03
 * Item 02
 * Item 03
