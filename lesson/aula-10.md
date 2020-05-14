@@ -14,3 +14,9 @@
 
 [![Markdown](https://media-exp1.licdn.com/dms/image/C4E03AQE3k5cUqyHAfw/profile-displayphoto-shrink_200_200/0?e=1594857600&v=beta&t=Iojies500pZPjWmgDJt3UFnP7uaa2MbOl3QtvGuCBCU)](https://www.linkedin.com/in/flavio-lima-1ab24a74/)
 
+## Imagem com link 2
+
+[![Markdown][image-thumbs]][image-url]
+
+[image-thumbs]: https://media.istockphoto.com/illustrations/outer-space-fantasy-background-illustration-id1212195582?s=170x170
+[image-url]: https://media.istockphoto.com/illustrations/outer-space-fantasy-illustration-id1212205721?k=6&m=1212205721&s=612x612&w=0&h=TiM1h3qx7eurj4jZXknZmabfb9gq0izlsrSjcQFRdD0=
