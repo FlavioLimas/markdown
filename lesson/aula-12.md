@@ -24,3 +24,14 @@ const passaword = 'secret';
 
 login(userName, password);
 ```
+
+# Syntax Highlighting
+
+```js
+// login.js
+
+const userName = 'flavio';
+const passaword = 'secret';
+
+login(userName, password);
+```
